@@ -1,13 +1,12 @@
 Hi 👋 My name is Sanket Jaiswal
 ==============================
 
-Java Backend Developer
+Full Stack Web Developer
 ----------------------
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](https://CODEwithSANKETj.github.io)
 * ✉️  You can contact me at [jaiswalsanket9404@gmail.com](mailto:jaiswalsanket9404@gmail.com)
-* 🧠  I'm am Full Stack Web Developer.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
